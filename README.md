@@ -21,6 +21,7 @@ AI app builders turn a text prompt, a spreadsheet, or a design into a working ap
 
 Tools that generate a complete frontend, backend, and data model from natural-language prompts.
 
+- [AppWizzy](https://appwizzy.com/) — Generates and edits web apps from prompts and runtime templates in dedicated cloud development VMs, with Git-backed source editing.
 - [Base44](https://base44.com) — No-code AI builder that generates full-stack web apps with frontend, database, auth, and hosting from chat; acquired by Wix in 2025.
 - [Bolt.new](https://bolt.new) — In-browser AI builder running on StackBlitz WebContainers that generates and runs full-stack JavaScript and TypeScript apps with editable code.
 - [Chef by Convex](https://chef.convex.dev) — Open-source AI builder that generates real-time full-stack apps on the Convex backend, including database, auth, file uploads, and jobs.
